@@ -1,0 +1,13 @@
+Webpage Title Extraction Report
+========================================
+
+URL: https://www.python.org
+Scraped on: 2025-09-09 11:55:55
+HTTP Status: 200
+Domain: www.python.org
+----------------------------------------
+
+Title: Welcome to Python.org
+
+Title length: 21 characters
+Title word count: 3

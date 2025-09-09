@@ -1,0 +1,57 @@
+Sample Document with Email Addresses
+=====================================
+
+This is a sample document that contains various email addresses scattered throughout the text. 
+The email extraction script should be able to find and extract all valid email addresses from this content.
+
+Contact Information:
+- Main office: contact@company.com
+- Sales inquiries: sales@businesscorp.org  
+- Technical support: tech-support@helpdesk.net
+- HR department: hr.department@company.com
+
+Customer emails from our database:
+john.doe@gmail.com submitted a support ticket yesterday.
+Please follow up with mary.smith123@yahoo.com regarding her order.
+The user test_user@example.org reported a bug in the system.
+For billing questions, contact alice+billing@finance.co.uk
+
+Some text with emails mixed in:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Contact us at info@lorem-ipsum.com for more information.
+You can also reach our team at customer.service@support-center.io or visit our website.
+
+Developer contacts:
+- Lead developer: dev.lead@techstartup.com
+- QA team: quality.assurance@testing.net
+- DevOps: devops@cloud-infrastructure.org
+
+Invalid or edge case emails (these may or may not be caught):
+- Missing domain: username@
+- Missing username: @domain.com
+- Special chars: user@domain-.com
+- Multiple dots: user..name@domain.com
+- Valid with plus: newsletter+updates@marketing.com
+
+Regional offices:
+Asia Pacific: apac@global-company.com
+Europe: europe@global-company.eu
+North America: northamerica@global-company.us
+
+Social media and marketing:
+Follow us on social media or contact our marketing team at social.media@brand.com
+For partnerships, reach out to partnerships@business.co
+
+Newsletter subscriptions:
+Subscribe to our newsletter by emailing subscribe@newsletter.com
+Unsubscribe by sending a message to unsubscribe@newsletter.com
+
+Emergency contacts:
+In case of emergency, contact: emergency@company.com
+Security issues should be reported to: security@company.com
+
+Some more text with emails:
+Dr. Smith can be reached at dr.smith@medical-center.org
+The professor's email is prof.johnson@university.edu
+Student inquiries: student.services@college.edu
+
+End of sample document. This file contains approximately 25+ email addresses for testing purposes.

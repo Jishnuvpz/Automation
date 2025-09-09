@@ -1,0 +1,13 @@
+Webpage Title Extraction Report
+========================================
+
+URL: https://stackoverflow.com
+Scraped on: 2025-09-09 11:55:58
+HTTP Status: 200
+Domain: stackoverflow.com
+----------------------------------------
+
+Title: Newest Questions - Stack Overflow
+
+Title length: 33 characters
+Title word count: 5

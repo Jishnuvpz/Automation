@@ -1,0 +1,33 @@
+Email addresses extracted from: C:\Users\jishu\OneDrive\Desktop\Internship\Task3_Automation\test_data\sample_text_with_emails.txt
+Extraction date: 2025-09-09 12:05:00
+Total unique emails found: 28
+--------------------------------------------------
+
+1. contact@company.com
+2. sales@businesscorp.org
+3. tech-support@helpdesk.net
+4. hr.department@company.com
+5. john.doe@gmail.com
+6. mary.smith123@yahoo.com
+7. test_user@example.org
+8. alice+billing@finance.co.uk
+9. info@lorem-ipsum.com
+10. customer.service@support-center.io
+11. dev.lead@techstartup.com
+12. quality.assurance@testing.net
+13. devops@cloud-infrastructure.org
+14. user@domain-.com
+15. user..name@domain.com
+16. newsletter+updates@marketing.com
+17. apac@global-company.com
+18. europe@global-company.eu
+19. northamerica@global-company.us
+20. social.media@brand.com
+21. partnerships@business.co
+22. subscribe@newsletter.com
+23. unsubscribe@newsletter.com
+24. emergency@company.com
+25. security@company.com
+26. dr.smith@medical-center.org
+27. prof.johnson@university.edu
+28. student.services@college.edu

@@ -1,0 +1,37 @@
+Email Validation Report
+==============================
+
+Total emails found: 28
+Valid emails: 28
+Invalid emails: 0
+
+Valid Emails:
+---------------
+contact@company.com
+sales@businesscorp.org
+tech-support@helpdesk.net
+hr.department@company.com
+john.doe@gmail.com
+mary.smith123@yahoo.com
+test_user@example.org
+alice+billing@finance.co.uk
+info@lorem-ipsum.com
+customer.service@support-center.io
+dev.lead@techstartup.com
+quality.assurance@testing.net
+devops@cloud-infrastructure.org
+user@domain-.com
+user..name@domain.com
+newsletter+updates@marketing.com
+apac@global-company.com
+europe@global-company.eu
+northamerica@global-company.us
+social.media@brand.com
+partnerships@business.co
+subscribe@newsletter.com
+unsubscribe@newsletter.com
+emergency@company.com
+security@company.com
+dr.smith@medical-center.org
+prof.johnson@university.edu
+student.services@college.edu

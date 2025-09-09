@@ -1,0 +1,13 @@
+Webpage Title Extraction Report
+========================================
+
+URL: https://github.com
+Scraped on: 2025-09-09 11:55:56
+HTTP Status: 200
+Domain: github.com
+----------------------------------------
+
+Title: GitHub · Build and ship software on a single, collaborative platform · GitHub
+
+Title length: 77 characters
+Title word count: 13
